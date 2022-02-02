@@ -10,12 +10,12 @@ class App extends Component {
       <div className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       </div> 
-      Abcd
+      abcd
       <Apicall />
     </div>
   );
 }
 
-
+}
 
 export default App;
